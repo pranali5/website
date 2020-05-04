@@ -4,7 +4,7 @@
 <head>
 <title>Pranali Sancheti</title>
 <style type="text/css">
-    img{width:100px;height:70px;border:0;}
+    img{width:600px;height:450px;border:0;}
     .show{display:block;}
     .hide{display:none;}
 </style>
@@ -22,8 +22,8 @@
 <body>
 <h1>Pranali Sancheti</h1>
 <h2>About me</h2>
-<p></p>
-<a href="https://www.cse.iitb.ac.in/~onkard/aboutme.html">The hottest boy in the world</a>
+<p>Here comes a paragraph</p>
+<a href="https://www.cse.iitb.ac.in/~onkard/aboutme.html">Guess who??</a>
 <br/>
 <img id="image01" src="pic.jpg" class="hide">
 <br/>
